@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap'); 
+
+.banner {
+    background-image: url('../../images/dg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 400px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+}
+
+.banner-container {
+    text-align: center;
+}
+
+.banner h1, .banner p {
+    font-family: 'Tangerine', cursive; 
+    font-size: 75px; 
+}
+
